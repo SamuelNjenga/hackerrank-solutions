@@ -21,3 +21,9 @@ Author :
 <br>
 <br>
 ![ProblemSolving](https://user-images.githubusercontent.com/35728717/163357605-1a4aec55-819b-455d-9117-dd32f7fda9fd.png)
+<br>
+<br>
+**SQL ALTERNATIVE BADGE**
+<br>
+<br>
+![ALTERNATIVE_SQL](https://user-images.githubusercontent.com/35728717/167369980-9f677b74-84b2-43b4-9c3a-16d2c5fba7a7.png)
