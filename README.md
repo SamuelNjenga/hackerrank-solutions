@@ -30,6 +30,8 @@ Author :
 <br>
 <br>
 **SQL BASIC JOINS BADGE**
+<br>
+<br>
 ![JOIN](https://user-images.githubusercontent.com/35728717/167814169-3490adf7-b9ce-4355-95b5-6fa6228dc364.png)
 <br>
 <br>
