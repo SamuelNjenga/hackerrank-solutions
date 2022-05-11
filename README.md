@@ -27,3 +27,9 @@ Author :
 <br>
 <br>
 ![ALTERNATIVE_SQL](https://user-images.githubusercontent.com/35728717/167369980-9f677b74-84b2-43b4-9c3a-16d2c5fba7a7.png)
+<br>
+<br>
+**SQL BASIC JOINS BADGE**
+![JOIN](https://user-images.githubusercontent.com/35728717/167814169-3490adf7-b9ce-4355-95b5-6fa6228dc364.png)
+<br>
+<br>
