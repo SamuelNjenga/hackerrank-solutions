@@ -45,3 +45,7 @@ Author :
 <br>
 <br>
 ![FinishedSql](https://user-images.githubusercontent.com/35728717/167814922-e6a22d4b-ea3e-4479-b801-5f373d8ad5f1.png)
+<br>
+<br>
+## License
+[MIT License](LICENSE)
